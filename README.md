@@ -25,10 +25,6 @@ In this project, marimo enables:
 ## Quick Start
 
 ```bash
-# Clone the repository
-git clone https://github.com/YOUR_USERNAME/speed-camera-analysis-marimo.git
-cd speed-camera-analysis-marimo
-
 # Run the interactive notebook (uv will auto-install dependencies)
 uv run marimo edit highway_rear_end_analysis.py
 
@@ -97,3 +93,4 @@ for actual policy evaluation work.
 ## License
 
 MIT
+
