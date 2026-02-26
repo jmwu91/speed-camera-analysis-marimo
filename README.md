@@ -90,7 +90,4 @@ graph LR
 The analysis framework and interactive features are production-ready and have been used
 for actual policy evaluation work.
 
-## License
-
-MIT
 
