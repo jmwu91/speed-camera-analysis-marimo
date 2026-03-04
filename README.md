@@ -6,6 +6,9 @@ demonstrates how marimo's reactive notebook environment enables **interactive
 stakeholder communication** — letting project managers and policymakers explore
 analysis results hands-on, rather than reviewing static reports.
 
+# Demo
+![Marimo Demo](./marimo_demo.gif)
+
 ## Why marimo?
 
 | Feature | Jupyter Notebook | marimo |
@@ -89,5 +92,6 @@ graph LR
 
 The analysis framework and interactive features are production-ready and have been used
 for actual policy evaluation work.
+
 
 
